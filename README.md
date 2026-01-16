@@ -3,11 +3,6 @@
 An **upcoming Deep Learning–based project** to perform **change detection on Synthetic Aperture Radar (SAR) images** using a **Siamese Convolutional Neural Network (CNN)** architecture.  
 The system aims to **identify meaningful changes** between multi-temporal SAR image pairs for applications such as **urban growth monitoring, disaster assessment, and environmental analysis**.
 
-> ⚠️ **Note:**  
-> This repository is currently in the **planning and development phase**.  
-> **Code, models, and experiments will be implemented progressively.**
-
----
 
 ## 🎯 **Project Objectives**
 - Understand **SAR image characteristics** and speckle noise
